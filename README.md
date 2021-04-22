@@ -17,11 +17,7 @@ Click [here](https://guides.library.cmu.edu/reproducibility) to learn more about
 Below is a list of the courses contained in this MiniSeries. Check out the [CMU Libraries' Events Calendar](https://cmu.libcal.com/) to learn about upcoming workshops and to access the registration page, or follow the links provided under each course description.
 
 ### Introduction to R
-This 3-hour course was designed for those interested in working with social sciences data in R. It begins with basic information about R syntax and the RStudio interface, and moves through how to import CSV files, the structure of data frames, how to deal with factors, how to add/remove rows and columns, and how to calculate summary statistics from a data frame.
-
-<p align="left">
-<img width="25%" height="25" src="https://user-images.githubusercontent.com/32546509/115731287-04064700-a355-11eb-9e2b-a9c98439a93f.png">
-</p>
+<img align="left" width="35%" height="25" src="https://user-images.githubusercontent.com/32546509/115731287-04064700-a355-11eb-9e2b-a9c98439a93f.png"> This 3-hour course was designed for those interested in working with social sciences data in R. It begins with basic information about R syntax and the RStudio interface, and moves through how to import CSV files, the structure of data frames, how to deal with factors, how to add/remove rows and columns, and how to calculate summary statistics from a data frame.
 
 Duration: 3 hours.
 
@@ -31,11 +27,7 @@ Register [here]()
 [Go to course.]()
 
 ### Data Visualization with R 
-<p align="left">
-<img width="25%" height="25%" src="https://user-images.githubusercontent.com/32546509/115730858-a7a32780-a354-11eb-968d-a05be9d4717b.png">
-</p>
-
-This 2-hour course teaches students to create customized data visualizations in R. Using the ggplot2 package, students will produce plots, histograms, density distribution, and other useful visualizations to bring their data to life. 
+img width="50%" height="50%" src="https://user-images.githubusercontent.com/32546509/115730858-a7a32780-a354-11eb-968d-a05be9d4717b.png"> This 2-hour course teaches students to create customized data visualizations in R. Using the ggplot2 package, students will produce plots, histograms, density distribution, and other useful visualizations to bring their data to life. 
 
 Duration: 2 hours.
 
