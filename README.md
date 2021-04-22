@@ -1,17 +1,12 @@
 # OSDC MiniSeries: Reproducible Research
 
-> *All the goodness of our wildly popular Carpentries workshops packed into shorter, bite-size portions*
+> *All the goodness of our wildly popular Carpentries workshops packed into shorter, bite-size portions!*
 
-The aim of the OSDC MiniSeries workshops is to teach researchers basic concepts, skills, and tools for working with data so that they can get more done in less time, and with less pain. OSDC workshops are designed for participants with no programming experience. 
+The aim of the OSDC MiniSeries workshops is to teach researchers basic concepts, skills, and tools for conducting research in a reproducible manner. Reproducible research is the idea that any result obtained by an experiment or observational study should be documented by making all data and code available in such a way that the computations can be executed again with identical results[[1]](https://en.wikipedia.org/wiki/Reproducibility). Click [here](https://guides.library.cmu.edu/reproducibility) to learn more about research reproducibility.
 
 Each Mini course is designed to last between 2 and 4 hours, which can be completed in one half-day event. This abbreviated format is intended to complement the more intensive 2-3 day format of our [Carpentries workshops](https://carpentries.org/) and the 1-hour [Library workshop series](https://cmu.libcal.com/calendar/workshops?cid=9148&t=g&d=0000-00-00&cal=9148&inc=0). Minis provide more modular presentations of the Carpentries curriculum and are therefore ideal for participants with more limited availability.
 
-## Reproducible Research
-This MiniSeries focuses on the concepts and tools behind conducting research in a reproducible manner. Reproducible research is the idea that any result obtained by an experiment or observational study should be documented by making all data and code available in such a way that the computations can be executed again with identical results[1](https://en.wikipedia.org/wiki/Reproducibility). 
-
-> "The need for reproducibility is increasing dramatically as data analyses become more complex, involving larger datasets and more sophisticated computations. Reproducibility allows for people to focus on the actual content of a data analysis, rather than on superficial details reported in a written summary. In addition, reproducibility makes an analysis more useful to others because the data and code that actually conducted the analysis are available."
-
-Click [here](https://guides.library.cmu.edu/reproducibility) to learn more about research reproducibility.
+OSDC workshops are designed for participants with no programming experience. 
 
 ## Courses in this MiniSeries
 Below is a list of the courses contained in this MiniSeries. Check out the [CMU Libraries' Events Calendar](https://cmu.libcal.com/) to learn about upcoming workshops and to access the registration page, or follow the links provided under each course description.
@@ -22,7 +17,7 @@ Below is a list of the courses contained in this MiniSeries. Check out the [CMU 
 Duration: 3 hours.
 
 Date of next workshop: 05/25/2021
-Register [here]()
+Register [here]().
 
 [Go to course.]()
 
@@ -32,6 +27,6 @@ Register [here]()
 Duration: 2 hours.
 
 Date of next workshop: Coming soon!
-Register [here]()
+Register [here]().
 
 [Go to course.]()
