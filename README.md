@@ -1,5 +1,4 @@
-# Open Science Workshops
-## Reproducible Research Mini-series
+# OSDC Minis: Reproducible Research Workshop Series
 
 > *All the goodness of our wildly popular Carpentries workshops packed into bite-size portions*
 
