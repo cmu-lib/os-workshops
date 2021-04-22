@@ -4,7 +4,7 @@
 
 The aim of the OSDC MiniSeries workshops is to teach researchers basic concepts, skills, and tools for conducting research in a reproducible manner. Reproducible research is the idea that any result obtained by an experiment or observational study should be documented by making all data and code available in such a way that the computations can be executed again with identical results[[1]](https://en.wikipedia.org/wiki/Reproducibility). Click [here](https://guides.library.cmu.edu/reproducibility) to learn more about research reproducibility.
 
-Each Mini course is designed to last between 2 and 4 hours, which can be completed in one half-day event. This abbreviated format is intended to complement the more intensive 2-3 day format of our [Carpentries workshops](https://carpentries.org/) and the 1-hour [Library workshop series](https://cmu.libcal.com/calendar/workshops?cid=9148&t=g&d=0000-00-00&cal=9148&inc=0). Minis provide more modular presentations of the Carpentries curriculum and are therefore ideal for participants with more limited availability.
+Mini courses are designed to be completed within 2 to 4 hours. This abbreviated format is intended to complement the more intensive 2-3 day format of our [Carpentries workshops](https://carpentries.org/) and the 1-hour [Library workshop series](https://cmu.libcal.com/calendar/workshops?cid=9148&t=g&d=0000-00-00&cal=9148&inc=0). Minis provide more modular presentations of the Carpentries curriculum and are therefore ideal for participants with more limited availability.
 
 OSDC workshops are designed for participants with no programming experience. 
 
