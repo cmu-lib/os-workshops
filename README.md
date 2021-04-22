@@ -1,6 +1,6 @@
 # OSDC Minis: Reproducible Research Workshop Series
 
-> *All the goodness of our wildly popular Carpentries workshops packed into bite-size portions*
+##> *All the goodness of our wildly popular Carpentries workshops packed into bite-size portions*
 
 The aim of the OSDC Mini-series workshops is to teach researchers basic concepts, skills, and tools for working with data so that they can get more done in less time, and with less pain. The lessons below were designed for those interested in working with social sciences data in R.
 
