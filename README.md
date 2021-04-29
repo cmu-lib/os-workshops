@@ -1,6 +1,6 @@
 # OSDC MiniSeries: Reproducible Research
 
-> *All the goodness of our wildly popular Carpentries workshops packed into shorter, bite-size portions!*
+> *All the goodness of our popular Carpentries workshops packed into shorter, bite-size portions!*
 
 The aim of the OSDC MiniSeries workshops is to teach researchers basic concepts, skills, and tools for conducting research in a reproducible manner. Reproducible research is the idea that any result obtained by an experiment or observational study should be documented by making all data and code available in such a way that the computations can be executed again with identical results[[1]](https://en.wikipedia.org/wiki/Reproducibility). Click [here](https://guides.library.cmu.edu/reproducibility) to learn more about research reproducibility.
 
