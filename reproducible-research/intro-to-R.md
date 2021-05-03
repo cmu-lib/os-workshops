@@ -32,15 +32,11 @@ If you are teaching this lesson in a workshop, please see the Instructor notes.
 
 ## Setup instructions
 *Overview*
-
-**Teaching**: 10 min
-
-**Questions**
-- How to install R and RStudio?
-
-**Objectives**
-- Install latest version of R.
-- Install latest version of RStudio.
+| **Teaching**  | 10 min |
+| ------------- | ------------- |
+| **Questions** | How to install R and RStudio? |
+| **Objectives** | Install latest version of R. |
+| | Install latest version of RStudio. |
 
 R and RStudio are separate downloads and installations. R is the underlying statistical computing environment, but using R alone is no fun. RStudio is a graphical integrated development environment (IDE) that makes using R much easier and more interactive. You need to install R before you install RStudio. After installing both programs, you will need to install the tidyverse package from within RStudio. Follow the instructions below for your operating system, and then follow the instructions to install tidyverse and RSQLite.
 
