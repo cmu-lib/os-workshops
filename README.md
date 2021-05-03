@@ -17,7 +17,7 @@ Below is a list of the courses contained in this MiniSeries. Check out the [CMU 
 Duration: 3 hours.
 
 Date of next workshop: 05/25/2021
-Register [here]().
+Register [here](https://cmu.libcal.com/event/7743280).
 
 [Go to course.]()
 
@@ -27,6 +27,3 @@ Register [here]().
 Duration: 2 hours.
 
 Date of next workshop: Coming soon!
-Register [here]().
-
-[Go to course.]()
