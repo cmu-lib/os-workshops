@@ -32,9 +32,12 @@ If you are teaching this lesson in a workshop, please see the Instructor notes.
 
 ## Setup instructions
 *Overview*
+
 **Teaching**: 10 min
+
 **Questions**
 - How to install R and RStudio?
+
 **Objectives**
 - Install latest version of R.
 - Install latest version of RStudio.
