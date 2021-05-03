@@ -20,13 +20,12 @@ If you are teaching this lesson in a workshop, please see the Instructor notes.
 ## Schedule
 | Section  | Time |
 | ------------- | ------------- |
-| [Setup]()  | 00:00  |
-| [Before we Start]()  | 00:40  |
-| [Introduction to R]()  | 02:00  |
-| [Starting with Data]()  |  03:20  |
-| [Data Wrangling with dplyr]  | 04:00  |
-| Finish  | Content Cell  |
-
+| [Setup](#setup-instructions)  | 00:00  |
+| [Before we Start](#before-we-start) | 00:10  |
+| [Introduction to R](#introduction-to-r)  | 00:50  |
+| [Starting with Data](#starting-with-data)  |  01:30  |
+| [Data Wrangling with dplyr](#Data-wrangling-with-dplyr) | 02:20 |
+| Finish  | 03:00  |
 
 (The actual schedule may vary slightly depending on the topics and exercises chosen by the instructor.)
 
