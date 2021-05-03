@@ -32,12 +32,12 @@ If you are teaching this lesson in a workshop, please see the Instructor notes.
 
 ## Setup instructions
 *Overview*
-> Teaching: 10 min
-> Questions
-> How to install R and RStudio?
-> Objectives
-> Install latest version of R.
-> Install latest version of RStudio.
+**Teaching**: 10 min
+**Questions**
+- How to install R and RStudio?
+**Objectives**
+- Install latest version of R.
+- Install latest version of RStudio.
 
 R and RStudio are separate downloads and installations. R is the underlying statistical computing environment, but using R alone is no fun. RStudio is a graphical integrated development environment (IDE) that makes using R much easier and more interactive. You need to install R before you install RStudio. After installing both programs, you will need to install the tidyverse package from within RStudio. Follow the instructions below for your operating system, and then follow the instructions to install tidyverse and RSQLite.
 
@@ -152,7 +152,6 @@ The Default Layout is:
 
 #### Organizing your working directory
 Using a consistent folder structure across your projects will help keep things organized and make it easy to find/file things in the future. This can be especially helpful when you have multiple projects. In general, you might create directories (folders) for scripts, data, and documents. Here are some examples of suggested directories:
-
 - data/ Use this folder to store your raw data and intermediate datasets. For the sake of transparency and provenance, you should always keep a copy of your raw data accessible and do as much of your data cleanup and preprocessing programmatically (i.e., with scripts, rather than manually) as possible.
 - data_output/ When you need to modify your raw data, it might be useful to store the modified versions of the datasets in a different folder.
 documents/ Used for outlines, drafts, and other text.
@@ -172,14 +171,18 @@ Alternatively, you can use setwd("/path/to/working/directory") to reset your wor
 For this lesson we will use the following folders in our working directory: data/, data_output/ and fig_output/. Let’s write them all in lowercase to be consistent. We can create them using the RStudio interface by clicking on the “New Folder” button in the file pane (bottom right), or directly from R by typing at console:
 
 > dir.create("data")
+> 
 > dir.create("data_output")
+> 
 > dir.create("fig_output")
 
 Go to the Figshare page for this curriculum and download the dataset called “SAFI_clean.csv”. The direct download link is: https://ndownloader.figshare.com/files/11492171. Place this downloaded file in the data/ you just created. You can do this directly from R by copying and pasting this in your terminal (your instructor can place this chunk of code in the Etherpad):
-download.file("https://ndownloader.figshare.com/files/11492171",
-              "data/SAFI_clean.csv", mode = "wb")
 
-Interacting with R
+> download.file("https://ndownloader.figshare.com/files/11492171",
+> 
+>              "data/SAFI_clean.csv", mode = "wb")
+
+#### Interacting with R
 The basis of programming is that we write down instructions for the computer to follow, and then we tell the computer to follow those instructions. We write, or code, instructions in R because it is a common language that both the computer and we can understand. We call the instructions commands and we tell the computer to follow the instructions by executing (also called running) those commands.
 
 There are two main ways of interacting with R: by using the console or by using script files (plain text files that contain your code). The console pane (in RStudio, the bottom left panel) is the place where commands written in the R language can be typed and executed immediately by the computer. It is also where the results will be shown for commands that have been executed. You can type commands directly into the console and press Enter to execute those commands, but they will be forgotten when you close the session.
@@ -194,7 +197,7 @@ If R is ready to accept commands, the R console shows a > prompt. If R receives 
 
 If R is still waiting for you to enter more text, the console will show a + prompt. It means that you haven’t finished entering a complete command. This is likely because you have not ‘closed’ a parenthesis or quotation, i.e. you don’t have the same number of left-parentheses as right-parentheses or the same number of opening and closing quotation marks. When this happens, and you thought you finished typing your command, click inside the console window and press Esc; this will cancel the incomplete command and return you to the > prompt. You can then proofread the command(s) you entered and correct the error.
  
-Installing additional packages using the packages tab
+#### Installing additional packages using the packages tab
 In addition to the core R installation, there are in excess of 10,000 additional packages which can be used to extend the functionality of R. Many of these have been written by R users and have been made available in central repositories, like the one hosted at CRAN, for anyone to download and install into their own R environment. You should have already installed the packages ‘ggplot2’ and ‘dplyr. If you have not, please do so now using these instructions.
 
 You can see if you have a package installed by looking in the packages tab (on the lower-right by default). You can also type the command installed.packages() into the console and examine the output.
@@ -203,9 +206,10 @@ Additional packages can be installed from the ‘packages’ tab. On the package
 
 At the bottom of the Install Packages window is a check box to ‘Install’ dependencies. This is ticked by default, which is usually what you want. Packages can (and do) make use of functionality built into other packages, so for the functionality contained in the package you are installing to work properly, there may be other packages which have to be installed with them. The ‘Install dependencies’ option makes sure that this happens.
 
-Exercise
+#### Exercise
 Use both the Console and the Packages tab to confirm that you have the tidyverse installed.
-Solution
+
+##### Solution
 Because the install process accesses the CRAN repository, you will need an Internet connection to install packages.
 
 It is also possible to install packages from other repositories, as well as Github or the local file system, but we won’t be looking at these options in this lesson.
@@ -219,8 +223,8 @@ Key Points
 Use RStudio to write and run R programs.
 Use install.packages() to install packages (libraries).
 
-Introduction to R
-Overview
+## Introduction to R
+*Overview*
 Teaching: 50 min
 Exercises: 30 min
 Questions
