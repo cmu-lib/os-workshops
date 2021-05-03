@@ -14,7 +14,8 @@ To get started, follow the directions in the “Setup” tab to download data to
 
 ### Prerequisites
 This lesson requires a working copy of R and RStudio. To most effectively use these materials, please make sure to install everything before working through this lesson.
-For Instructors
+
+### For Instructors
 If you are teaching this lesson in a workshop, please see the Instructor notes.
 
 ## Schedule
@@ -31,46 +32,48 @@ If you are teaching this lesson in a workshop, please see the Instructor notes.
 
 ## Setup instructions
 *Overview*
-Teaching: 10 min
-Questions
-How to install R and RStudio?
-Objectives
-Install latest version of R.
-Install latest version of RStudio.
+> Teaching: 10 min
+> Questions
+> How to install R and RStudio?
+> Objectives
+> Install latest version of R.
+> Install latest version of RStudio.
 
 R and RStudio are separate downloads and installations. R is the underlying statistical computing environment, but using R alone is no fun. RStudio is a graphical integrated development environment (IDE) that makes using R much easier and more interactive. You need to install R before you install RStudio. After installing both programs, you will need to install the tidyverse package from within RStudio. Follow the instructions below for your operating system, and then follow the instructions to install tidyverse and RSQLite.
 
-*Windows*
-If you already have R and RStudio installed
-Open RStudio, and click on ‘Help’ > ‘Check for updates’. If a new version is available, quit RStudio, and download the latest version for RStudio.
-To check which version of R you are using, start RStudio and the first thing that appears in the console indicates the version of R you are running. Alternatively, you can type sessionInfo(), which will also display which version of R you are running. Go on the CRAN website and check whether a more recent version is available. If so, please download and install it. You can check here for more information on how to remove old versions from your system if you wish to do so.
-If you don’t have R and RStudio installed
-Download R from the CRAN website.
-Run the .exe file that was just downloaded
-Go to the RStudio download page
-Under Installers select RStudio x.yy.zzz - Windows Vista/7/8/10 (where x, y, and z represent version numbers)
-Double click the file to install it
-Once it’s installed, open RStudio to make sure it works and you don’t get any error messages.
+### Windows
+#### If you already have R and RStudio installed
+- Open RStudio, and click on ‘Help’ > ‘Check for updates’. If a new version is available, quit RStudio, and download the latest version for RStudio.
+- To check which version of R you are using, start RStudio and the first thing that appears in the console indicates the version of R you are running. Alternatively, you can type sessionInfo(), which will also display which version of R you are running. Go on the CRAN website and check whether a more recent version is available. If so, please download and install it. You can check here for more information on how to remove old versions from your system if you wish to do so.
 
-*MacOS*
-If you already have R and RStudio installed
-Open RStudio, and click on ‘Help’ > ‘Check for updates’. If a new version is available, quit RStudio, and download the latest version for RStudio.
-To check the version of R you are using, start RStudio and the first thing that appears on the terminal indicates the version of R you are running. Alternatively, you can type sessionInfo(), which will also display which version of R you are running. Go on the CRAN website and check whether a more recent version is available. If so, please download and install it.
-If you don’t have R and RStudio installed
-Download R from the CRAN website.
-Select the .pkg file for the latest R version
-Double click on the downloaded file to install R
-It is also a good idea to install XQuartz (needed by some packages)
-Go to the RStudio download page
-Under Installers select RStudio x.yy.zzz - Mac OS X 10.6+ (64-bit) (where x, y, and z represent version numbers)
-Double click the file to install RStudio
-Once it’s installed, open RStudio to make sure it works and you don’t get any error messages.
+#### If you don’t have R and RStudio installed
+- Download R from the CRAN website.
+- Run the .exe file that was just downloaded
+- Go to the RStudio download page
+- Under Installers select RStudio x.yy.zzz - Windows Vista/7/8/10 (where x, y, and z represent version numbers)
+- Double click the file to install it
+- Once it’s installed, open RStudio to make sure it works and you don’t get any error messages.
 
-*Linux*
-Follow the instructions for your distribution from CRAN, they provide information to get the most recent version of R for common distributions. For most distributions, you could use your package manager (e.g., for Debian/Ubuntu run sudo apt-get install r-base, and for Fedora sudo yum install R), but we don’t recommend this approach as the versions provided by this are usually out of date. In any case, make sure you have at least R 3.3.1.
-Go to the RStudio download page
-Under Installers select the version that matches your distribution, and install it with your preferred method (e.g., with Debian/Ubuntu sudo dpkg -i rstudio-x.yy.zzz-amd64.deb at the terminal).
-Once it’s installed, open RStudio to make sure it works and you don’t get any error messages.
+### MacOS
+#### If you already have R and RStudio installed
+- Open RStudio, and click on ‘Help’ > ‘Check for updates’. If a new version is available, quit RStudio, and download the latest version for RStudio.
+- To check the version of R you are using, start RStudio and the first thing that appears on the terminal indicates the version of R you are running. Alternatively, you can type sessionInfo(), which will also display which version of R you are running. Go on the CRAN website and check whether a more recent version is available. If so, please download and install it.
+
+#### If you don’t have R and RStudio installed
+- Download R from the CRAN website.
+- Select the .pkg file for the latest R version
+- Double click on the downloaded file to install R
+- It is also a good idea to install XQuartz (needed by some packages)
+- Go to the RStudio download page
+- Under Installers select RStudio x.yy.zzz - Mac OS X 10.6+ (64-bit) (where x, y, and z represent version numbers)
+- Double click the file to install RStudio
+- Once it’s installed, open RStudio to make sure it works and you don’t get any error messages.
+
+### Linux
+- Follow the instructions for your distribution from CRAN, they provide information to get the most recent version of R for common distributions. For most distributions, you could use your package manager (e.g., for Debian/Ubuntu run sudo apt-get install r-base, and for Fedora sudo yum install R), but we don’t recommend this approach as the versions provided by this are usually out of date. In any case, make sure you have at least R 3.3.1.
+- Go to the RStudio download page
+- Under Installers select the version that matches your distribution, and install it with your preferred method (e.g., with Debian/Ubuntu sudo dpkg -i rstudio-x.yy.zzz-amd64.deb at the terminal).
+- Once it’s installed, open RStudio to make sure it works and you don’t get any error messages.
 
 ## Before We Start
 ### What is R? What is RStudio?
@@ -81,7 +84,7 @@ RStudio is currently a very popular way to not only write your R scripts but als
 To make it easier to interact with R, we will use RStudio. RStudio is the most popular IDE (Integrated Development Environment) for R. An IDE is a piece of software that provides tools to make programming easier.
 
 ### Why learn R?
-R does not involve lots of pointing and clicking, and that’s a good thing
+#### R does not involve lots of pointing and clicking, and that’s a good thing
 The learning curve might be steeper than with other software, but with R, the results of your analysis do not rely on remembering a succession of pointing and clicking, but instead on a series of written commands, and that’s a good thing! So, if you want to redo your analysis because you collected more data, you don’t have to remember which button you clicked in which order to obtain your results; you just have to run your script again.
 
 Working with scripts makes the steps you used in your analysis clear, and the code you write can be inspected by someone else who can give you feedback and spot mistakes.
@@ -105,17 +108,18 @@ R is designed for data analysis. It comes with special data structures and data 
 #### R can connect to spreadsheets, databases, and many other data formats, on your computer or on the web.
 
 #### R produces high-quality graphics
-The plotting functionalities in R are endless and allow you to adjust any aspect of your graph to convey most effectively the message from your data. [Link to Data Visualization with R Mini course.]
+The plotting functionalities in R are endless and allow you to adjust any aspect of your graph to convey most effectively the message from your data.
 
 #### R has a large and welcoming community
 Thousands of people use R daily. Many of them are willing to help you through mailing lists and websites such as Stack Overflow, or on the RStudio community. Questions which are backed up with short, reproducible code snippets are more likely to attract knowledgeable responses.
-Not only is R free, but it is also open-source and cross-platform
+
+#### Not only is R free, but it is also open-source and cross-platform
 Anyone can inspect the source code to see how R works. Because of this transparency, there is less chance for mistakes, and if you (or someone else) find some, you can report and fix bugs.
 
 Because R is open source and is supported by a large community of developers and users, there is a very large selection of third-party add-on packages which are freely available to extend R’s native capabilities.
  
-## A Tour of RStudio
-### Knowing your way around RStudio
+### A Tour of RStudio
+#### Knowing your way around RStudio
 Let’s start by learning about RStudio, which is an Integrated Development Environment (IDE) for working with R.
 
 The RStudio IDE open-source product is free under the Affero General Public License (AGPL) v3. The RStudio IDE is also available with a commercial license and priority email support from RStudio, Inc.
@@ -124,48 +128,52 @@ We will use the RStudio IDE to write code, navigate the files on our computer, i
 
 One of the advantages of using RStudio is that all the information you need to write code is available in a single window. Additionally, RStudio provides many shortcuts, autocompletion, and highlighting for the major file types you use while developing in R. RStudio makes typing easier and less error-prone.
 
-### Getting set up
+#### Getting set up
 It is good practice to keep a set of related data, analyses, and text self-contained in a single folder called the working directory. All the scripts within this folder can then use relative paths to files. Relative paths indicate where inside the project a file is located (as opposed to absolute paths, which point to where a file is on a specific computer). Working this way makes it a lot easier to move your project around on your computer and share it with others without having to directly modify file paths in the individual scripts.
 
 RStudio provides a helpful set of tools to do this through its “Projects” interface, which not only creates a working directory for you but also remembers its location (allowing you to quickly navigate to it). The interface also (optionally) preserves custom settings and open files to make it easier to resume work after a break.
-Create a new project
+
+#### Create a new project
 Under the File menu, click on New project, choose New directory, then New project
 Enter a name for this new folder (or “directory”) and choose a convenient location for it. This will be your working directory for the rest of the day (e.g., ~/data-carpentry)
 Click on Create project
 Create a new file where we will type our scripts. Go to File > New File > R script. Click the save icon on your toolbar and save your script as “script.R”.
-The RStudio Interface
+
+### The RStudio Interface
 Let’s take a quick tour of RStudio.
 
 RStudio is divided into four “panes”. The placement of these panes and their content can be customized (see menu, Tools -> Global Options -> Pane Layout).
 
 The Default Layout is:
-Top Left - Source: your scripts and documents
-Bottom Left - Console: what R would look and be like without RStudio
-Top Right - Environment/History: look here to see what you have done
-Bottom Right - Files and more: see the contents of the project/working directory here, like your Script.R file
-Organizing your working directory
+- Top Left - **Source**: your scripts and documents
+- Bottom Left - **Console**: what R would look and be like without RStudio
+- Top Right - **Environment/History**: look here to see what you have done
+- Bottom Right - **Files** and more: see the contents of the project/working directory here, like your Script.R file
+
+#### Organizing your working directory
 Using a consistent folder structure across your projects will help keep things organized and make it easy to find/file things in the future. This can be especially helpful when you have multiple projects. In general, you might create directories (folders) for scripts, data, and documents. Here are some examples of suggested directories:
-data/ Use this folder to store your raw data and intermediate datasets. For the sake of transparency and provenance, you should always keep a copy of your raw data accessible and do as much of your data cleanup and preprocessing programmatically (i.e., with scripts, rather than manually) as possible.
-data_output/ When you need to modify your raw data, it might be useful to store the modified versions of the datasets in a different folder.
+
+- data/ Use this folder to store your raw data and intermediate datasets. For the sake of transparency and provenance, you should always keep a copy of your raw data accessible and do as much of your data cleanup and preprocessing programmatically (i.e., with scripts, rather than manually) as possible.
+- data_output/ When you need to modify your raw data, it might be useful to store the modified versions of the datasets in a different folder.
 documents/ Used for outlines, drafts, and other text.
-fig_output/ This folder can store the graphics that are generated by your scripts.
-scripts/ A place to keep your R scripts for different analyses or plotting.
+- fig_output/ This folder can store the graphics that are generated by your scripts.
+- scripts/ A place to keep your R scripts for different analyses or plotting.
 
 You may want additional directories or subdirectories depending on your project needs, but these should form the backbone of your working directory.
 
-
-The working directory
+#### The working directory
 The working directory is an important concept to understand. It is the place where R will look for and save files. When you write code for your project, your scripts should refer to files in relation to the root of your working directory and only to files within this structure.
 
 Using RStudio projects makes this easy and ensures that your working directory is set up properly. If you need to check it, you can use getwd(). If for some reason your working directory is not what it should be, you can change it in the RStudio interface by navigating in the file browser to where your working directory should be, clicking on the blue gear icon “More”, and selecting “Set As Working Directory”. 
 
 Alternatively, you can use setwd("/path/to/working/directory") to reset your working directory. However, your scripts should not include this line, because it will fail on someone else’s computer.
 
-Downloading the data and getting set up
+#### Downloading the data and getting set up
 For this lesson we will use the following folders in our working directory: data/, data_output/ and fig_output/. Let’s write them all in lowercase to be consistent. We can create them using the RStudio interface by clicking on the “New Folder” button in the file pane (bottom right), or directly from R by typing at console:
-dir.create("data")
-dir.create("data_output")
-dir.create("fig_output")
+
+> dir.create("data")
+> dir.create("data_output")
+> dir.create("fig_output")
 
 Go to the Figshare page for this curriculum and download the dataset called “SAFI_clean.csv”. The direct download link is: https://ndownloader.figshare.com/files/11492171. Place this downloaded file in the data/ you just created. You can do this directly from R by copying and pasting this in your terminal (your instructor can place this chunk of code in the Etherpad):
 download.file("https://ndownloader.figshare.com/files/11492171",
