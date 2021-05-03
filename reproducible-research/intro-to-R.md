@@ -18,39 +18,14 @@ For Instructors
 If you are teaching this lesson in a workshop, please see the Instructor notes.
 
 ## Schedule
-Setup
-Install R and RStudio
-Download files required for the lesson
-00:00
-1. Before we Start
-How to find your way around RStudio?
-How to interact with R?
-How to manage your environment?
-How to install packages?
-00:40
-2. Introduction to R
-What data types are available in R?
-What is an object?
-How can values be initially assigned to variables of different data types?
-What arithmetic and logical operators can be used?
-How can subsets be extracted from vectors?
-How does R treat missing values?
-How can we deal with missing values in R?
-02:00
-3. Starting with Data
-What is a data.frame?
-How can I read a complete csv file into R?
-How can I get basic summary information about my dataset?
-How can I change the way R treats strings in my dataset?
-Why would I want strings to be treated differently?
-03:20
-4. Data Wrangling with dplyr
-How can I select specific rows and/or columns from a dataframe?
-How can I combine multiple commands into a single command?
-How can I create new columns or remove existing columns from a dataframe?
-How can I reformat a dataframe to meet my needs?
-04:00
-Finish
+| Section  | Time |
+| ------------- | ------------- |
+| [Setup]()  | 00:00  |
+| [Before we Start]()  | 00:40  |
+| [Introduction to R]()  | 02:00  |
+| [Starting with Data]()  |  03:20  |
+| [Data Wrangling with dplyr]  | 04:00  |
+| Finish  | Content Cell  |
 
 
 (The actual schedule may vary slightly depending on the topics and exercises chosen by the instructor.)
