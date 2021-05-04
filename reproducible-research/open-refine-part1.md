@@ -58,5 +58,5 @@ The plus sign is used to join the different values or strings together into one 
 
 ##### Shutting down OpenRefine
 1. To ensure that all of your steps are saved, it is important to properly shut down OpenRefine.  
-- On a PC, hit Control-C on your keyboard.
-- On a Mac, go to the OpenRefine app in the doc and choose Quit.
+ - On a PC, hit Control-C on your keyboard.
+ - On a Mac, go to the OpenRefine app in the doc and choose Quit.
