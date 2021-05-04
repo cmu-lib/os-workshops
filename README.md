@@ -38,4 +38,3 @@ Date of next workshop: 05/25/2021
 Duration: 2 hours.
 
 Date of next workshop: Coming soon!
-***
