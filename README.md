@@ -27,7 +27,7 @@ Duration: 3 hours.
 
 Date of next workshop: 05/25/2021
 
-Register [here](https://cmu.libcal.com/event/7743280). [Go to course.](https://cmu-lib.github.io/os-workshops/reproducible-research/Introduction%20to%20R.pdf)
+[View course curriculum.](https://cmu-lib.github.io/os-workshops/reproducible-research/Introduction%20to%20R.pdf). Register [here](https://cmu.libcal.com/event/7743280). 
 
 ### Data Visualization with R 
 <img align="right" width="45%" height="45%" src="https://user-images.githubusercontent.com/32546509/115735540-8e9c7580-a358-11eb-88cb-5382d51cbed6.JPG"> This 2-hour course teaches students to create customized data visualizations in R. Using the ggplot2 package, students will produce plots, histograms, density distribution, and other useful visualizations to bring their data to life. 
