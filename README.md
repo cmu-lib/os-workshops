@@ -12,6 +12,7 @@ OSDC workshops are designed for participants with no programming experience.
 
 ## Courses in this MiniSeries
 Below is a list of the courses contained in this MiniSeries. Check out the [CMU Libraries' Events Calendar](https://cmu.libcal.com/) to learn about upcoming workshops and to access the registration page, or follow the links provided under each course description.
+
 ***
 
 ### Cleaning Untidy Data with OpenRefine
@@ -20,6 +21,7 @@ Below is a list of the courses contained in this MiniSeries. Check out the [CMU 
 Duration: 2 hours.
 
 Date of next workshop: Coming soon!
+
 ***
 
 ### Introduction to R
@@ -30,6 +32,7 @@ Duration: 3 hours.
 Date of next workshop: 05/25/2021
 
 [View course curriculum](https://cmu-lib.github.io/os-workshops/reproducible-research/Introduction%20to%20R.pdf). Register [here](https://cmu.libcal.com/event/7743280). 
+
 ***
 
 ### Data Visualization with R 
