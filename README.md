@@ -14,7 +14,7 @@ OSDC workshops are designed for participants with no programming experience.
 Below is a list of the courses contained in this MiniSeries. Check out the [CMU Libraries' Events Calendar](https://cmu.libcal.com/) to learn about upcoming workshops and to access the registration page, or follow the links provided under each course description.
 
 ### Cleaning Untidy Data with OpenRefine
-<img align="left" width="25%" height="25%" src="https://user-images.githubusercontent.com/32546509/117059849-3d906800-acee-11eb-9069-b7c8707db178.png"> OpenRefine is a free, open source tool to help you prepare your data for analysis. Quickly and easily transform data, split and merge columns, remove whitespace, and perform many more common data cleaning tasks.
+<img align="left" width="15%" height="15%" src="https://user-images.githubusercontent.com/32546509/117059849-3d906800-acee-11eb-9069-b7c8707db178.png"> OpenRefine is a free, open source tool to help you prepare your data for analysis. Quickly and easily transform data, split and merge columns, remove whitespace, and perform many more common data cleaning tasks.
 
 Duration: 2 hours.
 
