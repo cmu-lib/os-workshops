@@ -25,7 +25,7 @@ Date of next workshop: Coming soon!
 
 Duration: 3 hours.
 
-Date of next workshop: 05/25/2021 (Register [here](https://cmu.libcal.com/event/7743280).)
+Date of next workshop: 05/25/2021. Register [here](https://cmu.libcal.com/event/7743280).
 
 [Go to course.](https://cmu-lib.github.io/os-workshops/reproducible-research/Introduction%20to%20R.pdf)
 
