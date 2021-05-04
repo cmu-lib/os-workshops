@@ -57,6 +57,7 @@ The plus sign is used to join the different values or strings together into one 
 ##### Activity 4: Start up a new project and load the citizen science dataset again. Apply the JSON code that we just copied by going to the Undo/Redo tab, clicking Apply and copying and pasting the code into the window. Click Perform Operations.
 
 ##### Shutting down OpenRefine
-1. To ensure that all of your steps are saved, it is important to properly shut down OpenRefine.  
- - On a PC, hit Control-C on your keyboard.
- - On a Mac, go to the OpenRefine app in the doc and choose Quit.
+1. To ensure that all of your steps are saved, it is important to properly shut down OpenRefine.
+  
+   - On a PC, hit Control-C on your keyboard.
+   - On a Mac, go to the OpenRefine app in the doc and choose Quit.
