@@ -87,7 +87,7 @@ Edit Column -> Remove this Column.
 
 > **Bonus Activity: Remove the above facets. Apply a numeric facet to the 2017 columns and facet to only expenditures over \$30,000. Using an additional facet, determine the expenditure category with the most values over \$30000.** 
 
-##### Transpose the data from wide format to long format
+#### Transpose the data from wide format to long format
 1. **Wide vs. Long format:** The dataset is currently in “wide” format with years across as columns. We should convert it to “long” format to work with it using numeric facets. Converting to long format will put all the years into one column as a 'Year' variable, and all the numeric data values into a second column. 
 2. **Transpose the data to long format:** Remove an facets you have in place. From the 2017 column pull down menu, select Transpose -> Transpose cells across columns into rows....The Transpose window appears. You are going to put the data from the 8 numeric data columns (named 2010 through 2017) into two columns, one containing the year, and one containing the numeric data value (representing an expenditure amount). For the *From column*, choose 2010. For the *To column* choose 2017 (or last column, either will work). In the Transpose into section, we will use the Two new columns option. The Key Column will be the years – call it Year. Give the Value Column the name Per\_capita_expenditure. Check the Fill down in other columns option. Click Transpose.
 
