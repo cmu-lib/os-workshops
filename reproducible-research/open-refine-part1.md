@@ -1,4 +1,37 @@
 # Cleaning Untidy Data with OpenRefine
+
+## Schedule
+| Section  | Time |
+| ------------- | ------------- |
+| [Setup](#setup-instructions)  | 00:00  |
+| [Part 1: Performing Basic Functions in OpenRefine](#before-we-start) | 00:10  |
+| [Part 2: Clustering and restructuring data in OpenRefine](#introduction-to-r)  | 01:00  |
+| Finish  | 02:00  |
+
+(The actual schedule may vary slightly depending on the topics and exercises chosen by the instructor.)
+
+## Setup instructions
+
+You can download OpenRefine from [http://openrefine.org/download.html](http://openrefine.org/download.html). There are versions for Windows, Mac OS X and Linux.
+
+### Installing OpenRefine
+
+For Windows and Linux, the address above will provide a zip file. Unzip the downloaded file wherever you want to install the program. 
+
+For Mac, you will be downloading a ‘dmg’. Open it and then drag the OpenRefine application to an appropriate folder on you computer.
+
+You need to have a ‘Java Runtime Environment’ (JRE) installed on your computer to run OpenRefine. If you don’t already have one installed then you can download and install it from [http://java.com](http://java.com). Click on “Free Java Download”.
+
+### Running OpenRefine
+
+On Windows: Navigate to the folder where you’ve installed OpenRefine and either double-click ‘google-refine.exe’ (for Google Refine 2.5), ’openrefine.exe’ (for OpenRefine 2.7) or ‘refine.bat’ (for either)
+
+On Linux: Navigate to the folder where you’ve installed OpenRefine in a terminal window and type ‘./refine’
+
+On Mac: Navigate to where you installed OpenRefine and click the OpenRefine icon
+
+The interface to OpenRefine is accessed via a web browser. When you run Refine normally this should open a window in your default web browser pointing at the address http://127.0.0.1:3333. If this doesn’t happen automatically you can open a web browser and type in this address.
+
 ## Part 1: Performing Basic Functions in OpenRefine
 ### Personal consumption expeditures dataset
 
