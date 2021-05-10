@@ -2,7 +2,6 @@
 
 ## Schedule
 | Section  | Time |
-
 | ------------- | ------------- |
 | [Setup](#setup-instructions)  | 00:00  |
 | [Performing Basic Functions in OpenRefine](#part-1-performing-basic-functions-in-openrefine) | 00:10  |
