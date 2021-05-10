@@ -9,6 +9,10 @@ In this activity set, we will be:
 - Export a JSON script to perform the same process on another dataset
 - Shutting down OpenRefine
 
+##### Download the dataset
+
+Download the citizen science dataset [here.](https://cmu-lib.github.io/os-workshops/reproducible-research/citizenscience.csv)
+
 ##### Create a new project from the citizen science dataset 
 1. **Start a new project:** Start up OpenRefine (if it isn’t running) or click on the OpenRefine logo on the top left to go to the main screen. Note: If you were working with another project, it has been automatically saved in OpenRefine and the files are stored locally on your computer. You can see your project listed here and can use Open Projects to go back to it later. 
 2. **Import your dataset:** Click on Create Project and import the citizenscience.csv file. Maintain the default settings, rename your project and click Create Project. You should see that there are 1991 records in our dataset. Click on show 50 rows to show more rows displayed in the window.
