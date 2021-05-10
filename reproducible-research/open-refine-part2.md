@@ -9,6 +9,10 @@ In this activity set, we will be:
 - Transposing data from wide to long format
 - Exporting a dataset from OpenRefine
 
+##### Download the dataset
+
+Download the expenditures by state dataset [here.](https://cmu-lib.github.io/os-workshops/reproducible-research/expenditures_by_state.xlsx)
+
 ##### Review the dataset and load it into OpenRefine
 1. Open the file expenditures\_by_state.xlsx in Excel and take a look at it. This is a freely available dataset from the Bureau of Economic Analysis, which provides average expenditures on a wide range of goods and services. Notice the following:
 
