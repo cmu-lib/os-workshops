@@ -2,8 +2,8 @@
 
 ## Schedule
 | Section  | Time |
-| ------------- | ------------- |
 
+| ------------- | ------------- |
 | [Setup](#setup-instructions)  | 00:00  |
 | [Performing Basic Functions in OpenRefine](#part-1-performing-basic-functions-in-openrefine) | 00:10  |
 | [Clustering and restructuring data in OpenRefine](#part-2-clustering-and-restructuring-data-in-openrefine)  | 01:00  |
