@@ -1,4 +1,4 @@
-# Cleaning Messy Data with OpenRefine
+# Cleaning Untidy Data with OpenRefine
 ## Part 1: Performing Basic Functions in OpenRefine
 ### Personal consumption expeditures dataset
 
