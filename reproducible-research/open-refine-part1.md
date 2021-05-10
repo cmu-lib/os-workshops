@@ -50,9 +50,9 @@ Edit Column -> Remove this Column.
 8. **Filter data using facets:** Click on Pennsylvania in the value list. This has the same effect as using the text filter to search for Pennsylvania, leaving 24 matching rows. However, from there we can do more than the filter allowed. We can select a second value at the same time. Hover your cursor over West Virginia in the value list and choose include. You can then exclude one or both of the selections at any time. Hover your cursor over Pennsylvania in the value list and choose exclude. Now only West Virginia rows are shown.
 9. **Working with numeric facets:** From the 2017 column pull down menu, expand Facet, and look at the options. There are some other types of facets available, including numeric facets. If we created a numeric facet now, it would only work for this column, so you would have to facet each year of data separately. Let’s manipulate the data a bit first, and then come back and work with numeric facets.
 
-> Activity 1: In addition to the text facet on State, add another text facet on the expenditure column. Using the facets, view the Pennsylvania, West Virginia and Ohio data for "Gasoline and other energy goods" expenditures.  Which state spent the most per capita in 2017?
+> **Activity 1: In addition to the text facet on State, add another text facet on the expenditure column. Using the facets, view the Pennsylvania, West Virginia and Ohio data for "Gasoline and other energy goods" expenditures.  Which state spent the most per capita in 2017?**
 
-> **Bonus Activity:** Remove the above facets. Apply a numeric facet to the 2017 columns and facet to only expenditures over \$30,000. Using an additional facet, determine the expenditure category with the most values over \$30000. 
+> **Bonus Activity: Remove the above facets. Apply a numeric facet to the 2017 columns and facet to only expenditures over \$30,000. Using an additional facet, determine the expenditure category with the most values over \$30000.** 
 
 ##### Transpose the data from wide format to long format
 1. **Wide vs. Long format:** The dataset is currently in “wide” format with years across as columns. We should convert it to “long” format to work with it using numeric facets. Converting to long format will put all the years into one column as a 'Year' variable, and all the numeric data values into a second column. 
@@ -101,10 +101,10 @@ Download the citizen science dataset [here.](https://cmu-lib.github.io/os-worksh
 3. **Set your clustering algorithm:** At the top of the screen, you'll see that there are different methods and keying functions you can choose from to find clusters. They roughly go from more strict/unforgiving to looser. Let's keep the default for now. Note: In this case, you should see that the column values are just variations in capitalization, but clustering can also catch typos, plural vs singular and other small differences as well.
 4. **Cluster similar values:** You can see that it has found entries that it thinks are all referring to the same thing and suggests merging them under one recommended facet. You can put a check mark next to the ones you agree with, and edit the heading that you want to merge them into--or just click on the name you want to use. Go through and merge the entries found into new terms that have only the first word capitalized by adding a check mark under Merge? and adjusting the New Cell Value. When done, click on Merge Selected & Re-Cluster. You might've noticed that as you did a merge, it flashed at the top of the screen how many rows were affected/mass edited.
 
-##### Activity 2: Try a different clustering algorithm and see if you can clean up the species\_guess column more. Try different clustering algorithms and see if you can clean up the species_guess column more. You can ‘Select All’ and quickly scan the suggestions to merge in bulk. After cleaning up the column, can you identify what the most common bird species is in the dataset?
+> **Activity 2: Try a different clustering algorithm and see if you can clean up the species\_guess column more. Try different clustering algorithms and see if you can clean up the species_guess column more. You can ‘Select All’ and quickly scan the suggestions to merge in bulk. After cleaning up the column, can you identify what the most common bird species is in the dataset?**
 
-##### Bonus activity: Find all of the blank cells in the common_name column and rename them to N/A. 
-##### Bonus activity: In the coordinates_obscured column, change all 'false' values to '0' and all 'true' values to '1'.  
+> **Bonus activity: Find all of the blank cells in the common_name column and rename them to N/A.** 
+> **Bonus activity: In the coordinates_obscured column, change all 'false' values to '0' and all 'true' values to '1'.**  
 
 #### Split columns in the dataset
 1. **Split the scienctific name colunm into two:** We have a column called scientific\_name. With scientific names, the first part is the genus name and the second part is the specific name. So let's split this column so we can see how many of a particular genus were identified. From the scientific\_name column pull down menu, select Edit column-->Split into several columns. For the separator, put a space, split into 2 columns at most, and uncheck Remove this column because we want to keep it. Then click on OK.
@@ -118,7 +118,7 @@ The plus sign is used to join the different values or strings together into one 
 
 - You'll notice that when you type in the expression, the preview at the bottom changes to show you what the resulting value will be. This preview is extremely helpful when writing GREL expressions! For more help with regular expressions, see [http://www.rexegg.com/regex-quickstart.html](http://www.rexegg.com/regex-quickstart.html) and [https://regex101.com/](https://regex101.com/).
 
-> Actvity 3: Concatenate the scientific\_name column with the common\_name in parentheses into a new column called Descriptive Name. The format should be \<scientific\_name> (\<common_name>). 
+> **Actvity 3: Concatenate the scientific\_name column with the common\_name in parentheses into a new column called Descriptive Name. The format should be \<scientific\_name> (\<common_name>).** 
 
 #### Restructure the dataset by removing columns and rows, and then work with Undo/Redo to roll those changes back
 1. **Delete columns in bulk:** Go to the special All column pull down menu on the far left. From the All column pull down menu, select Edit columns->Re-order / remove columns... From here you can drag columns from the left to the right to remove them – do this for private latitude and private longitude. We can also reorder columns. Move license, species\_guess and quality_grade columns to just under id to move those columns more to the left. Click on OK to make the changes.
@@ -135,7 +135,7 @@ The plus sign is used to join the different values or strings together into one 
 #### Extract a JSON script to reproduce your steps with another data file
 1. If you have a similarly structured dataset – perhaps for a different snapshot in time – and want to perform the same steps, we can extract a JSON script for future use. Click on the Undo/Redo tab and click on Extract. Choose the steps you want to repeat. Copy the code and save it in a text file to keep a copy of your steps. Later if you load up your new dataset, you could go back to the Undo/Redo tab and select Apply and paste in this code into the window to run those steps on the new dataset.
 
->  Activity 4: Start up a new project and load the citizen science dataset again. Apply the JSON code that we just copied by going to the Undo/Redo tab, clicking Apply and copying and pasting the code into the window. Click Perform Operations.
+>  **Activity 4: Start up a new project and load the citizen science dataset again. Apply the JSON code that we just copied by going to the Undo/Redo tab, clicking Apply and copying and pasting the code into the window. Click Perform Operations.**
 
 #### Shutting down OpenRefine
 1. To ensure that all of your steps are saved, it is important to properly shut down OpenRefine.
