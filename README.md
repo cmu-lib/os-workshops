@@ -20,7 +20,7 @@ Below is a list of the courses contained in this MiniSeries. Check out the [CMU 
 
 Duration: 2 hours.
 
-[View course curriculum](https://cmu-lib.github.io/os-workshops/reproducible-research/open-refine-part1). Date of next workshop: Coming soon!
+[View course curriculum](https://cmu-lib.github.io/os-workshops/reproducible-research/open-refine). Date of next workshop: Coming soon!
 
 ***
 
