@@ -19,6 +19,7 @@ This lesson requires a working copy of R and RStudio. To most effectively use th
 If you are teaching this lesson in a workshop, please see the Instructor notes.
 
 ## Schedule
+
 | Section  | Time |
 | ------------- | ------------- |
 | [Setup](#setup-instructions)  | 00:00  |
