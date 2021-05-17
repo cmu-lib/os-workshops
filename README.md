@@ -42,4 +42,4 @@ Duration: 2 hours.
 
 Date of next workshop: 6/24/2021
 
-Register [here](https://cmu.libcal.com/event/7790421)
+Register [here](https://cmu.libcal.com/event/7790421).
