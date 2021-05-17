@@ -40,4 +40,6 @@ Date of next workshop: 05/25/2021
 
 Duration: 2 hours.
 
-Date of next workshop: Coming soon!
+Date of next workshop: 6/24/2021
+
+Register [here](https://cmu.libcal.com/event/7790421)
