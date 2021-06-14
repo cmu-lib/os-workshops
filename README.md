@@ -16,7 +16,7 @@ Below is a list of the courses contained in this MiniSeries. Check out the [CMU 
 ***
 
 ### Cleaning Untidy Data with OpenRefine
-<img align="left" width="18%" height="18%" src="https://user-images.githubusercontent.com/32546509/117060645-1e460a80-acef-11eb-944a-1dc6df16bc1e.png"> OpenRefine is a free, open source tool to help you prepare your data for analysis. Quickly and easily transform data, split and merge columns, remove whitespace, and perform many more common data cleaning tasks.
+<img align="left" width="15%" height="15%" src="https://user-images.githubusercontent.com/32546509/117060645-1e460a80-acef-11eb-944a-1dc6df16bc1e.png"> OpenRefine is a free, open source tool to help you prepare your data for analysis. Quickly and easily transform data, split and merge columns, remove whitespace, and perform many more common data cleaning tasks.
 
 Duration: 2 hours.
 
