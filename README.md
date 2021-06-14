@@ -20,6 +20,8 @@ Below is a list of the courses contained in this MiniSeries. Check out the [CMU 
 
 Duration: 2 hours.
 
+Date of next workshop: TBA
+
 [View course curriculum](https://cmu-lib.github.io/os-workshops/reproducible-research/open-refine). Date of next workshop: Coming soon!
 
 ***
@@ -29,7 +31,7 @@ Duration: 2 hours.
 
 Duration: 3 hours.
 
-Date of next workshop: 05/25/2021
+Date of next workshop: TBA
 
 [View course curriculum](https://cmu-lib.github.io/os-workshops/reproducible-research/Introduction%20to%20R.pdf). Register [here](https://cmu.libcal.com/event/7743280). 
 
@@ -40,6 +42,6 @@ Date of next workshop: 05/25/2021
 
 Duration: 2 hours.
 
-Date of next workshop: 6/24/2021
+Date of next workshop: June 24, 2021 1-3 pm ET
 
-Register [here](https://cmu.libcal.com/event/7790421).
+[View course curriculum](https://cmu-lib.github.io/os-workshops/reproducible-research/Data%20Visualization%20with%20R.pdf). Register [here](https://cmu.libcal.com/event/7790421).
