@@ -45,3 +45,10 @@ Duration: 2 hours.
 Date of next workshop: June 24, 2021 1-3 pm ET
 
 [View course curriculum](https://cmu-lib.github.io/os-workshops/reproducible-research/Data%20Visualization%20with%20R.pdf). Register [here](https://cmu.libcal.com/event/7790421).
+
+***
+
+## Learn foundational data science skills at your own pace with Minis2Go!
+If you missed out on either of our recent Introduction to R or Data Visualization with R Mini Workshops, don’t despair! As of June 2021, we’ve made all of our curriculum available 24/7 and added a number of supplementary materials to let you learn at your own pace!
+
+Complete [this form](https://forms.gle/8HcEnZ8z2cuVai2G8) to let us know how we can best support you in your learning journey and to join our mailing list, where you will receive personalized emails with suggested learning templates, helpful tips and tricks, and links to sign up for weekly office hours where you will have the chance to ask questions and connect with peers.
