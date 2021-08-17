@@ -38,7 +38,7 @@ Date of next workshop: Monday, Oct. 18, 1-4 pm ET
 ***
 
 ### Data Visualization with R 
-<img align="right" width="40%" height="40%" src="https://user-images.githubusercontent.com/32546509/115735540-8e9c7580-a358-11eb-88cb-5382d51cbed6.JPG"> This 2-hour course teaches students to create customized data visualizations in R. Using the ggplot2 package, students will produce plots, histograms, density distribution, and other useful visualizations to bring their data to life. 
+<img align="right" width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/115735540-8e9c7580-a358-11eb-88cb-5382d51cbed6.JPG"> This 2-hour course teaches students to create customized data visualizations in R. Using the ggplot2 package, students will produce plots, histograms, density distribution, and other useful visualizations to bring their data to life. 
 
 Duration: 2 hours.
 
