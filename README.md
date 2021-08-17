@@ -45,6 +45,7 @@ Duration: 2 hours.
 Date of next workshop: Thursday, Nov. 18, 1-3 pm ET
 
 [View course curriculum](https://cmu-lib.github.io/os-workshops/reproducible-research/Data%20Visualization%20with%20R.pdf). Registration open soons!
+
 ***
 
 ## Learn foundational data science skills at your own pace with Minis2Go!
