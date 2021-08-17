@@ -22,7 +22,7 @@ Duration: 2 hours.
 
 Date of next workshop: TBA
 
-[View course curriculum](https://cmu-lib.github.io/os-workshops/reproducible-research/open-refine). Date of next workshop: Coming soon!
+[View course curriculum](https://cmu-lib.github.io/os-workshops/reproducible-research/open-refine). Registration open soons!
 
 ***
 
@@ -33,19 +33,18 @@ Duration: 3 hours.
 
 Date of next workshop: Monday, Oct. 18, 1-4 pm ET
 
-[View course curriculum](https://cmu-lib.github.io/os-workshops/reproducible-research/Introduction%20to%20R.pdf). Register [here](https://cmu.libcal.com/event/7743280). 
+[View course curriculum](https://cmu-lib.github.io/os-workshops/reproducible-research/Introduction%20to%20R.pdf). Registration open soons!
 
 ***
 
 ### Data Visualization with R 
-<img align="right" width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/115735540-8e9c7580-a358-11eb-88cb-5382d51cbed6.JPG"> This 2-hour course teaches students to create customized data visualizations in R. Using the ggplot2 package, students will produce plots, histograms, density distribution, and other useful visualizations to bring their data to life. 
+<img align="right" width="35%" height="35%" src="https://user-images.githubusercontent.com/32546509/115735540-8e9c7580-a358-11eb-88cb-5382d51cbed6.JPG"> This 2-hour course teaches students to create customized data visualizations in R. Using the ggplot2 package, students will produce plots, histograms, density distribution, and other useful visualizations to bring their data to life. 
 
 Duration: 2 hours.
 
 Date of next workshop: Thursday, Nov. 18, 1-3 pm ET
 
-[View course curriculum](https://cmu-lib.github.io/os-workshops/reproducible-research/Data%20Visualization%20with%20R.pdf). Register [here](https://cmu.libcal.com/event/7790421).
-
+[View course curriculum](https://cmu-lib.github.io/os-workshops/reproducible-research/Data%20Visualization%20with%20R.pdf). Registration open soons!
 ***
 
 ## Learn foundational data science skills at your own pace with Minis2Go!
