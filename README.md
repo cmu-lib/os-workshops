@@ -18,11 +18,11 @@ Below is a list of the courses contained in this MiniSeries. Check out the [CMU 
 ### Cleaning Untidy Data with OpenRefine
 <img align="left" width="15%" height="15%" src="https://user-images.githubusercontent.com/32546509/117060645-1e460a80-acef-11eb-944a-1dc6df16bc1e.png"> OpenRefine is a free, open source tool to help you prepare your data for analysis. Quickly and easily transform data, split and merge columns, remove whitespace, and perform many more common data cleaning tasks.
 
-Duration: 2 hours.
+Duration: 1.5 hours.
 
-Date of next workshop: TBA
+Date of next workshop: Monday, Oct. 11, 2021, 10-11:30 am ET
 
-[View course curriculum](https://cmu-lib.github.io/os-workshops/reproducible-research/open-refine). Registration open soons!
+[View course curriculum](https://cmu-lib.github.io/os-workshops/reproducible-research/open-refine). Register [here](https://cmu.libcal.com/event/8178586).
 
 ***
 
@@ -33,7 +33,7 @@ Duration: 3 hours.
 
 Date of next workshop: Monday, Oct. 18, 1-4 pm ET
 
-[View course curriculum](https://cmu-lib.github.io/os-workshops/reproducible-research/Introduction%20to%20R.pdf). Registration open soons!
+[View course curriculum](https://cmu-lib.github.io/os-workshops/reproducible-research/Introduction%20to%20R.pdf). Register [here](https://cmu.libcal.com/event/8180564).
 
 ***
 
@@ -44,7 +44,7 @@ Duration: 2 hours.
 
 Date of next workshop: Thursday, Nov. 18, 1-3 pm ET
 
-[View course curriculum](https://cmu-lib.github.io/os-workshops/reproducible-research/Data%20Visualization%20with%20R.pdf). Registration open soons!
+[View course curriculum](https://cmu-lib.github.io/os-workshops/reproducible-research/Data%20Visualization%20with%20R.pdf). Register [here](https://cmu.libcal.com/event/8180614).
 
 ***
 
