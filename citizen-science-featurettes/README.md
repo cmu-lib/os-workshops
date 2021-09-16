@@ -38,7 +38,6 @@ Citizen Science Featurettes are a series of one-off, half-day events designed to
 - Click [here](https://cmu.libcal.com/event/8179720) to view the event on LibCal.
 - Download the curriculum [here](https://cmu-lib.github.io/os-workshops/citizen-science-featurettes/Humanitarian%20OpenStreetMap.pdf).
 <br/>
-<br/>
 
 ***
 
