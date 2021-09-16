@@ -19,6 +19,7 @@ Click [here](https://cmu.libcal.com/event/8180507) to view the event on LibCal.
 <br/>
 <br/>
 <br/>
+***
 
 ## Past Featurettes
 ### Galaxy Zoo
@@ -26,6 +27,11 @@ Click [here](https://cmu.libcal.com/event/8180507) to view the event on LibCal.
 
 Date: Friday, June 18th from 1-2 pm ET
 Click [here](https://cmu.libcal.com/calendar/workshops/citizen-science-featurettes-galaxy-zoo) to view the event on LibCal.
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 ### Humanitarian OpenStreetMap
 <img align="left" width="25%" height="25%" src="https://user-images.githubusercontent.com/32546509/133670564-c8b37e8c-5616-43ac-9dbd-1def126a01a1.png">  Humanitarian OpenStreetMap Team (HOT) is an international team dedicated to humanitarian action and community development through open mapping. HOT works together to provide map data which revolutionises disaster management, reduces risks, and contributes to achievement of the Sustainable Development Goals. 
