@@ -37,3 +37,7 @@ Click [here](https://cmu.libcal.com/calendar/workshops/citizen-science-featurett
 
 Date: Thursday, Sept. 16, 2021, 2-4 pm ET<br/>
 Click [here](https://cmu.libcal.com/event/8179720) to view the event on LibCal.
+
+***
+
+Do you have a favorite citizen science project you'd like to see included in this series? Tell us about it using [this form](https://forms.gle/uhdqifJExUA5mKng7)!
