@@ -1,4 +1,6 @@
 # Citizen Science Featurettes
+<img align="center" width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/133671175-a7ab4055-c22c-458f-afd1-04659be715b6.png">
+
 Ever dreamed of being an astrophysicist for a day? A biochemist? A geographer?... Now you can! Come discover the weird, wild, wonderful world of citizen science with our new *Citizen Science Featurettes*! 
 
 Citizen Science Featurettes are a series of one-off, half-day events designed to expose participants to the diversity of citizen science opportunities at CMU, in the local community, and on the web. Each Featurette centers on a single citizen science project and includes: 
@@ -10,7 +12,7 @@ Citizen Science Featurettes are a series of one-off, half-day events designed to
 
 ## Upcoming Featurettes
 ### Foldit
-<img align="left" width="15%" height="15%" src="https://user-images.githubusercontent.com/32546509/133670619-5b86e25d-f848-45d7-a753-589b74bef906.jpg"> “Foldit is a revolutionary crowdsourcing computer game enabling you to contribute to important scientific research. This page describes the science behind Foldit and how your playing can help. 
+<img align="left" width="15%" height="15%" src="https://user-images.githubusercontent.com/32546509/133670619-5b86e25d-f848-45d7-a753-589b74bef906.jpg"> Foldit is a revolutionary crowdsourcing computer game enabling you to contribute to important scientific research. This page describes the science behind Foldit and how your playing can help. 
 
 Date: Thursday, Sept. 16, 2021, 2-4 pm ET
 Click [here](https://cmu.libcal.com/event/8180507) to view the event on LibCal.
