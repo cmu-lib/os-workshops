@@ -23,13 +23,11 @@ Click [here](https://cmu.libcal.com/event/8180507) to view the event on LibCal.
 
 ## Past Featurettes
 ### Galaxy Zoo
-<img align="left" width="15%" height="15%" src="https://user-images.githubusercontent.com/32546509/133670499-aa29462f-f338-4591-9295-995c7cd2fd8b.jpg"> To understand how galaxies formed, astrophysicists need your help to classify them according to their shapes. If you're quick, you may even be the first person to see the galaxies you're asked to classify!
+<img align="left" width="25%" height="25%" src="https://user-images.githubusercontent.com/32546509/133673083-f8839e17-7ec4-4b2b-9c9a-9876baa932fd.jpg"> To understand how galaxies formed, astrophysicists need your help to classify them according to their shapes. If you're quick, you may even be the first person to see the galaxies you're asked to classify!
 
 Date: Friday, June 18th from 1-2 pm ET
 
 Click [here](https://cmu.libcal.com/calendar/workshops/citizen-science-featurettes-galaxy-zoo) to view the event on LibCal.
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>
