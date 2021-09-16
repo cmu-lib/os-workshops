@@ -14,6 +14,11 @@ Citizen Science Featurettes are a series of one-off, half-day events designed to
 
 Date: Thursday, Sept. 16, 2021, 2-4 pm ET
 Click [here](https://cmu.libcal.com/event/8180507) to view the event on LibCal.
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 ## Past Featurettes
 ### Galaxy Zoo
