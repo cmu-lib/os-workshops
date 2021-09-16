@@ -10,7 +10,7 @@ Citizen Science Featurettes are a series of one-off, half-day events designed to
 
 ## Upcoming Featurettes
 ### Foldit
-<img align="right" width="25%" height="25%" src="https://user-images.githubusercontent.com/32546509/133670619-5b86e25d-f848-45d7-a753-589b74bef906.jpg"> [Foldit](https://fold.it/) is a revolutionary crowdsourcing computer game enabling you to contribute to important scientific research. [This page](https://fold.it/portal/info/science) describes the science behind Foldit and how your playing can help. 
+<img align="right" width="30%" height="30%" src="https://user-images.githubusercontent.com/32546509/133670619-5b86e25d-f848-45d7-a753-589b74bef906.jpg"> [Foldit](https://fold.it/) is a revolutionary crowdsourcing computer game enabling you to contribute to important scientific research. [This page](https://fold.it/portal/info/science) describes the science behind Foldit and how your playing can help. 
 
 Date: Thursday, Sept. 16, 2021, 2-4 pm ET
 Click [here](https://cmu.libcal.com/event/8180507) to view the event on LibCal.
