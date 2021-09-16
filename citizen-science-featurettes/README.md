@@ -1,0 +1,3 @@
+#Citizen Science Featurettes
+
+Citizen Science Featurettes are a series of one-off, half-day events designed to expose participants to the diversity of citizen science opportunities at CMU, in the local community, and on the web. Each Featurette centers on a single citizen science project and includes orientation and training in the project’s methodology; a hands-on “field-test” of the project interface and workflow; and a debrief and discussion highlighting key insights, opportunities, and challenges. Projects will be selected based on such criteria as accessibility and inclusivity; availability and condition of instructional resources and materials; research and educational value; and complementarity to CMU research strengths and other OSDC programming. 
