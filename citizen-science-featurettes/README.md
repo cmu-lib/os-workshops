@@ -29,6 +29,7 @@ Citizen Science Featurettes are a series of one-off, half-day events designed to
 - Click [here](https://cmu.libcal.com/calendar/workshops/citizen-science-featurettes-galaxy-zoo) to view the event on LibCal.
 - Download the instructions for instructors [here](https://cmu-lib.github.io/os-workshops/citizen-science-featurettes/Galaxy%20Zoo%20101%20-%20Instructor%20Instructions.pdf).
 - Download the instructions for students [here](https://cmu-lib.github.io/os-workshops/citizen-science-featurettes/Galaxy%20Zoo%20101%20-%20Student%20Instructions.pdf).
+<br/>
 
 ### Humanitarian OpenStreetMap
 <img align="right" width="30%" height="30%" src="https://user-images.githubusercontent.com/32546509/133670564-c8b37e8c-5616-43ac-9dbd-1def126a01a1.png">  Humanitarian OpenStreetMap Team (HOT) is an international team dedicated to humanitarian action and community development through open mapping. HOT works together to provide map data which revolutionises disaster management, reduces risks, and contributes to achievement of the Sustainable Development Goals. 
