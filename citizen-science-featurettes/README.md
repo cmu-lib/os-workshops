@@ -14,7 +14,8 @@ Citizen Science Featurettes are a series of one-off, half-day events designed to
 
 - Date: Thursday, Sept. 16, 2021, 2-4 pm ET
 - Click [here](https://cmu.libcal.com/event/8180507) to view the event on LibCal.
-- Download the curriculum [here](https://cmu-lib.github.io/os-workshops/citizen-science-featurettes/Foldit.pdf).
+- Download the instructions for students [here](https://cmu-lib.github.io/os-workshops/citizen-science-featurettes/FoldIt.pdf).
+- Download the instructions for instructors [here](https://cmu-lib.github.io/os-workshops/citizen-science-featurettes/Foldit-Instructors.pdf).
 <br/>
 <br/>
 <br/>
