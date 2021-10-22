@@ -53,7 +53,7 @@ Date of next workshop: Thursday, Nov. 18, 1-3 pm ET
 
 Click on the links below to access asynchronous versions of the workshops above. (New series will be added during the Fall 2021 semester.)
 
-- [Introduction to R](https://www.youtube.com/watch?v=4co_7Uj9EUU&list=PLbkhiRA2P3qI2M3P0ioFfR-G3azf2_G6h)
-- Data Visualization with R (coming soon!)
+  - [Introduction to R](https://www.youtube.com/watch?v=4co_7Uj9EUU&list=PLbkhiRA2P3qI2M3P0ioFfR-G3azf2_G6h)
+  - Data Visualization with R (coming soon!)
 
 Complete [this form](https://forms.gle/8HcEnZ8z2cuVai2G8) to let us know how we can best support you in your learning journey and to join our mailing list, where you will receive personalized emails with suggested learning templates, helpful tips and tricks, and links to sign up for weekly office hours where you will have the chance to ask questions and connect with peers.
