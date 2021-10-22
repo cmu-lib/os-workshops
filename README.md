@@ -20,7 +20,7 @@ Below is a list of the courses contained in this MiniSeries. Check out the [CMU 
 
 Duration: 1.5 hours.
 
-Check [LibCal](https://cmu.libcal.com/) for the date of the next presentation of this workshop.
+Check [LibCal](https://cmu.libcal.com/) for the date of the next installment of this workshop.
 
 [View course curriculum](https://cmu-lib.github.io/os-workshops/reproducible-research/open-refine).
 
