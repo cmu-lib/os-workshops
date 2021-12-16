@@ -42,7 +42,7 @@ Check [LibCal](https://cmu.libcal.com/) for the date of the next presentation of
 
 Duration: 2 hours.
 
-Date of next workshop: Thursday, Nov. 18, 1-3 pm ET
+Check [LibCal](https://cmu.libcal.com/) for the date of the next presentation of this workshop.
 
 [View course curriculum](https://cmu-lib.github.io/os-workshops/reproducible-research/Data%20Visualization%20with%20R.pdf). Register [here](https://cmu.libcal.com/event/8180614).
 
