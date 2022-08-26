@@ -4,14 +4,14 @@ layout: reference
 
 ## Reference
 
-## [Running and Quitting](__pages/01-run-quit/)
+## [Running and Quitting](__pages/01-run-quit.md)
 - Python files have the `.py` extension.
 - Can be written in a text file or a [Jupyter Notebook][jupyter].
   - Jupyter notebooks have the extension `.ipynb`
   - Jupyter notebooks can be opened from [Anaconda](https://docs.continuum.io/anaconda/install) or through the command line by entering `$ jupyter notebook`
     - Markdown and HTML are allowed in markdown cells for documenting code.
 
-## [Variables and Assignment](__pages/02-variables/)
+## [Variables and Assignment](__pages/02-variables.md)
 - Variables are stored using `=`.
   - Strings are defined in quotations `'...'`.
   - Integers and floating point numbers are defined without quotations.
@@ -27,7 +27,7 @@ layout: reference
     - `stop` is the index of the element after the last desired element.
 - Use `len(...)` to find the length of a variable or string.
 
-## [Data Types and Type Conversion](__pages/03-types-conversion/)
+## [Data Types and Type Conversion](__pages/03-types-conversion.md)
 - Each value has a type. This controls what can be done with it.
   - `int` represents an integer
   - `float` represents a floating point number.
@@ -40,7 +40,7 @@ layout: reference
     - Convert string to integer: `int(...)`.
     - Convert integer to string: `str(...)`.
 
-## [Built-in Functions and Help](__pages/04-built-in/)
+## [Built-in Functions and Help](__pages/04-built-in.md)
 - To add a comment, place `#` before the thing you do not with to be executed.
 - Commonly used built-in functions:
   - `min()` finds the smallest value.
@@ -49,7 +49,7 @@ layout: reference
   - `help()` displays documentation for the function in the parenthesis.
     - Other ways to get help include holding down `shift` and pressing `tab` in Jupyter Notebooks.
 
-## [Libraries](__pages/05-libraries/)
+## [Libraries](__pages/05-libraries.md)
 - Importing a library:
   - Use `import ...` to load a library.
   - Refer to this library by using `module_name.thing_name`.
@@ -60,7 +60,7 @@ layout: reference
   - Example of referring to an item with the module's name: `math.cos(math.pi)`.
 - Importing the plotting library as an alias: `import matplotlib as mpl`
 
-## [Reading Tabular Data into DataFrames](__pages/06-reading-tabular/)
+## [Reading Tabular Data into DataFrames](__pages/06-reading-tabular.md)
 - Use the pandas library to do statistics on tabular data. Load with `import pandas as pd`.
   - To read in a csv: `pd.read_csv()`, including the path name in the parenthesis.
     - To specify a column's values should be used as row headings: `pd.read_csv('path', index_col='column name')`, where path and column name should be replaced with the relevant values.
@@ -69,7 +69,7 @@ layout: reference
 - Use `DataFrame.T` to transpose a DataFrame.
 - Use `DataFrame.describe` to get summary statistics about your data.
 
-## [Pandas DataFrames](__pages/07-data-frames/)
+## [Pandas DataFrames](__pages/07-data-frames.md)
 - Select data using `[i,j]`
   - To select by entry position: `DataFrame.iloc[..., ...]`
     - This is inclusive of everything except the final index.
@@ -82,7 +82,7 @@ layout: reference
   - We can then use this to select values.
 - To use a select-apply-combine operation we use `data.apply(lambda x: x > x.mean())` where `mean()` can be any operation the user would like to be applied to x.
 
-## [Plotting](__pages/08-plotting/)
+## [Plotting](__pages/08-plotting.md)
 - The most widely used plotting library is `matplotlib`.
   - Usually imported using `import matplotlib.pyplot as plt`.
   - To plot we use the command `plt.plot(time, position)`.
