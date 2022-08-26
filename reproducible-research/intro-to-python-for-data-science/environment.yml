@@ -1,9 +1,0 @@
-name: intro-to-python-for-data-science
-channels:
-  - conda-forge
-dependencies:
-  - python
-  - numpy
-  - pandas
-  - matplotlib
-  - scipy
