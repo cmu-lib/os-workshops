@@ -7,9 +7,9 @@ title: "Setup"
 The data we will be using is taken from the [gapminder][gapminder] dataset.
 To obtain it, download and unzip the file
 [python-novice-gapminder-data.zip](files/python-novice-gapminder-data.zip).
-In order to follow the presented material, you should launch JupyterLab (see [Starting JupyterLab](__pages/01-run-quit/#starting-jupyterlab)).
+In order to follow the presented material, you should launch JupyterLab (see [Starting JupyterLab](__pages/01-run-quit.md/#starting-jupyterlab)).
 
-## [Installing Python Using Anaconda](http://swcarpentry.github.io/python-novice-gapminder/setup.html)
+## [Installing Python Using Anaconda](https://docs.continuum.io/anaconda/install/)
 
 <br>
 
