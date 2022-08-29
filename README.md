@@ -50,6 +50,8 @@ Check [LibCal](https://cmu.libcal.com/) for the date of the next presentation of
 
 ### Introduction to Python for Data Science
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cmu-lib/os-workshops/HEAD)
+
 <img align="left" width="40%" height="40%" src="reproducible-research/intro-to-python-for-data-science/fig/0_jupyterlab_notebook_screenshot.png"> This 3-hour course serves as an introduction to Python for non-programmers with a focus on plotting and data analysis. The first half of this course begins with a brief tour of JupyterLab, with an overview of Jupyter Notebooks, and moves to basic Python programming with data. In the second half, the course transitions into demonstrating the ways that learners can use Python libraries to read tabular data, perform statistical analyses, and visualize data.
 
 Duration: 3 hours.
