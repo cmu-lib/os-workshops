@@ -48,6 +48,18 @@ Check [LibCal](https://cmu.libcal.com/) for the date of the next presentation of
 
 ***
 
+### Introduction to Python for Data Science
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cmu-lib/os-workshops/HEAD)
+
+<img align="left" width="40%" height="40%" src="reproducible-research/intro-to-python-for-data-science/fig/0_jupyterlab_notebook_screenshot.png"> This 3-hour course serves as an introduction to Python for non-programmers with a focus on plotting and data analysis. The first half of this course begins with a brief tour of JupyterLab, with an overview of Jupyter Notebooks, and moves to basic Python programming with data. In the second half, the course transitions into demonstrating the ways that learners can use Python libraries to read tabular data, perform statistical analyses, and visualize data.
+
+Duration: 3 hours.
+
+Check [LibCal](https://cmu.libcal.com/) for the date of the next presentation of this workshop.
+
+***
+
 ## Learn foundational data science skills at your own pace with Minis2Go!
 <img align="left" width="20%" height="20%" src="https://user-images.githubusercontent.com/32546509/129747376-202e44f8-d925-487f-979c-4f333d912555.jpg"> If you missed out on either of our recent Introduction to R or Data Visualization with R Mini Workshops, don’t despair! As of June 2021, we’ve made all of our curriculum available 24/7 and added a number of supplementary materials to let you learn at your own pace!
 
