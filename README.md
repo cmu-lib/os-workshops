@@ -58,6 +58,8 @@ Duration: 3 hours.
 
 Check [LibCal](https://cmu.libcal.com/) for the date of the next presentation of this workshop.
 
+[View course curriculum](https://cmu-lib.github.io/os-workshops/reproducible-research/intro-to-python-for-data-science/index).
+
 ***
 
 ## Learn foundational data science skills at your own pace with Minis2Go!
