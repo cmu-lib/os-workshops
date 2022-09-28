@@ -58,7 +58,7 @@ Duration: 3 hours.
 
 Check [LibCal](https://cmu.libcal.com/) for the date of the next presentation of this workshop.
 
-[View course curriculum](https://cmu-lib.github.io/os-workshops/reproducible-research/intro-to-python-for-data-science/__pages/instructors-notes.md).
+[View course curriculum](https://cmu-lib.github.io/os-workshops/reproducible-research/intro-to-python-for-data-science/__pages/instructors-notes).
 
 ***
 
